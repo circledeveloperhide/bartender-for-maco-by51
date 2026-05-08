@@ -1,4 +1,4 @@
-
+secure Bartender for macOS Helper | search-enhancement + file-encryption is the best Bartender for macOS helper, featuring search-enhancement and file-encryption. Safe, efficient,
 
 
 
